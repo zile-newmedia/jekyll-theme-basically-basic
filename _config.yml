@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: Zile
-email:
-description:
+lang: zh-CN, zh-TW, en-US
+title: Imaginist
+email:1394440262@qq.com
+description:He's always up to his tricks
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
@@ -24,9 +24,9 @@ author:
   twitter:
   picture:
 twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+github_username:zile-newmedia
+logo:  "/assets/images/logo.png"
+search: true
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
