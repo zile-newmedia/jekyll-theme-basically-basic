@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN, zh-TW, en-US
 title: Imaginist
-email:1394440262@qq.com
+email: 1394440262@qq.com
 description:He's always up to his tricks
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
