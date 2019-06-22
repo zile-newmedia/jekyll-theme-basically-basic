@@ -25,7 +25,7 @@ author:
   picture:
 twitter_username:
 github_username: zile-newmedia
-logo:  "/assets/images/logo.png"
+logo:  "/assets/images/logo picture.jpg"
 search: true
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
