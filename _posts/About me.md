@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: posts
 title: 关于我
 author: imaginist
-date: 2019.6.19
+date: 2019.6.20
 ---
 
 # something about me imaginist
