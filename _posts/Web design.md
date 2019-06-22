@@ -6,4 +6,4 @@ date: 2019.6.21
 ---
 
 # Web design and development
-## About my learning gains this semester
+## Summary of growth experience
