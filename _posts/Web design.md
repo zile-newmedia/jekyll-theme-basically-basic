@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 网页设计与制作
+title: 网站设计
 author: imaginist
 date: 2019.6.21
 ---
 
 # Web design and development
-## Summary of growth experience
+## My learning gains this semester
