@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: category
 title: Web
 author: imaginist
 date: 2019-6-21
