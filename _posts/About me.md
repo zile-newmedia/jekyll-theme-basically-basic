@@ -1,11 +1,9 @@
 ---
--layout: post
--title: 关于我
--author: imaginist
--date: 2019.6.20
--categories：
--   关于我
+layout: post
+title: 关于我
+author: imaginist
+date: 2019.6.20
 ---
 
--# something about me imaginist
--## Summary of growth experience
+# something about me imaginist
+## share with you
