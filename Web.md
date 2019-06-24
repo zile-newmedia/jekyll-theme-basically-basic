@@ -1,10 +1,10 @@
 ---
-layout: about
-title: 网站设计
+layout: 
+title: Web
 author: imaginist
 date: 2019-6-21
-categories:
-     - Web
+permalink:/categories/Web/
+taxonomy:Web 
 ---
 
 # Web design and development
