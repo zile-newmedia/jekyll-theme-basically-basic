@@ -2,7 +2,9 @@
 layout: post
 title: 网站设计
 author: imaginist
-date: 2019.6.21
+date: 2019-6-21
+categories:
+     - Web
 ---
 
 # Web design and development
