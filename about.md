@@ -1,13 +1,12 @@
 ---
 layout: about
-title: About me
+title: Me
 author: imaginist
 date: 2019-6-24
 ---
 
 
 # Something about me
-
 ## Summary of growth experience
 
 * (成长经历概要)
