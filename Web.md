@@ -1,10 +1,10 @@
 ---
-layout: category
+layout: post
 title: Web
 author: imaginist
 date: 2019-6-21
-permalink:/categories/Web/
-taxonomy:Web 
+permalink: /categories/Web/
+taxonomy: Web 
 ---
 
 # Web design and development
