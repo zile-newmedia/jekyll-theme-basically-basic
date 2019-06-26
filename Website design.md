@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Web
+title: Website design 
 author: imaginist
 date: 2019-6-21
-permalink: /categories/Web/
-taxonomy: Web 
+permalink: /categories/Website design/
+taxonomy: Website design
 ---
 
 # Web design and development
