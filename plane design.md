@@ -1,8 +1,8 @@
 ---
 layout: page
-title: plane design
-permalink: /categories/plane design/
-taxonomy: plane design
+title: Plane design
+permalink: /categories/Plane design/
+taxonomy: Plane design
 ---
 
 ## 测试
