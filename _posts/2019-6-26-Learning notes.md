@@ -7,7 +7,7 @@ categories:
      - Learning notes
 ---
 
-# #Learning notes
+## #Learning notes
 ## #Languages
 
 
