@@ -1,6 +1,8 @@
 ---
 layout: category
 title: Learning notes
+author: imaginist
+date: 2019-6-21
 permalink: /categories/Learning notes/
 taxonomy: Learning notes
 ---
