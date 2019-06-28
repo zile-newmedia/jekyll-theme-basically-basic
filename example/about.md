@@ -4,6 +4,6 @@ layout: about
 ---
 
 <div>
-<img scr="/assets/images/title_picture.jpg"
+<img scr="/assets/images/title_picture.jpg" width=100%>
 </div>
 
