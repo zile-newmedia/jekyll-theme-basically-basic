@@ -1,6 +1,6 @@
-   ---
-   layout: home
-   image: assets/images/banner.jpg
-   peginate:true
-   ---
+---
+layout: home
+image: assets/images/banner.jpg
+peginate:true
+---
 
