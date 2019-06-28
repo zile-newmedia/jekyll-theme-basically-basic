@@ -1,5 +1,6 @@
----
-layout: home
-image: assets/images/banner.jpg
----
+   ---
+   layout: home
+   image: assets/images/banner.jpg
+   peginate:true
+   ---
 
