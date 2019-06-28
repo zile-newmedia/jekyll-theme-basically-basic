@@ -6,9 +6,8 @@
     {% endunless %}
     {% assign intro_image = intro_image | escape %}
     
-    <div class="intro-image">	
-    	
-      < img src=/assets/images/banner.jpg>
+    <div class="intro-image">
+      < img src="{{ intro_image }}" alt="{{ page.title }}">
     </div>
     
   {% endif %}
