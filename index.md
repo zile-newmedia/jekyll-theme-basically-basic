@@ -1,5 +1,5 @@
 ---
 layout: home
-image: /assets/images/logo picture.jpg
+image: /assets/images/title_picture.jpg
 ---
 
