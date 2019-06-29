@@ -43,21 +43,16 @@ Git已经成为程序猿必备技能之一，而GitHub做为做流行的Git仓�
 - Fork 一个仓库
 
  [Fork 一个示例仓库](http://wiki.jikexueyuan.com/project/github-basics/fork-example-repo.html)
-
  [同步你的 Fork 仓库](http://wiki.jikexueyuan.com/project/github-basics/fork-synced.html)
-
  [检索其他仓库来 Fork](http://wiki.jikexueyuan.com/project/github-basics/find-another-repo-fork.html)
 
 - 社会化
 
  [Follow 一个人](http://wiki.jikexueyuan.com/project/github-basics/follow-a-friend.html)
-
  [Watch 一个项目](http://wiki.jikexueyuan.com/project/github-basics/watch-project.html)
-
  [其他你可以做的事](http://wiki.jikexueyuan.com/project/github-basics/do-other-things.html)
 
 - 图形化工具
 
  [GitHub for Windows](http://wiki.jikexueyuan.com/project/github-basics/github-for-windows.html)
-
  [GitHub for Mac](http://wiki.jikexueyuan.com/project/github-basics/github-for-mac.html)
