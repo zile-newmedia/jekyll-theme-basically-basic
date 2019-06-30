@@ -15,15 +15,13 @@ categories:
 ## 文件传输（FTP）
 
 
-![avatar]
-(http://m.qpic.cn/psb?/V13n1hdE00quqe/BzuTfzsm4Mth6lP8wyXeVmTslNjIVee8hYLfCpK5Bks!/b/dAQBAAAAAAAA&bo=eAQpAXgEKQEDJwI!&rf=viewer_4&t=5)
+![avatar](http://m.qpic.cn/psb?/V13n1hdE00quqe/BzuTfzsm4Mth6lP8wyXeVmTslNjIVee8hYLfCpK5Bks!/b/dAQBAAAAAAAA&bo=eAQpAXgEKQEDJwI!&rf=viewer_4&t=5)
 
 
 ## FTP工作机制
 
 
-![avatar]
-(http://m.qpic.cn/psb?/V13n1hdE00quqe/wX53EtsNo*gFXK7R607AepFnWCBeI2LvAbMRjzGdzY0!/b/dL4AAAAAAAAA&bo=7QKdAe0CnQEDFzI!&rf=viewer_4&t=5)
+![avatar](http://m.qpic.cn/psb?/V13n1hdE00quqe/wX53EtsNo*gFXK7R607AepFnWCBeI2LvAbMRjzGdzY0!/b/dL4AAAAAAAAA&bo=7QKdAe0CnQEDFzI!&rf=viewer_4&t=5)
 
 - 使用两条TCP连接：一条用来控制，另一条用于数据（文件）的传输。
 - 用于**控制的TCP连接**主要在FTP的控制部分使用。例如登录用户名和密码的验证、发送文件的名称、发送方式的设置。
@@ -31,7 +29,7 @@ categories:
 
 
 
-##TCP/IP分层模型与通信示例
+## TCP/IP分层模型与通信示例
 
 
 ![avatar](http://m.qpic.cn/psb?/V13n1hdE00quqe/HlPPQXq0z1ktejzFLnaEA2tk*G0JKbykWvKPB1i24gY!/b/dL8AAAAAAAAA&bo=hgLjAYYC4wEDFzI!&rf=viewer_4&t=5)
@@ -42,9 +40,9 @@ categories:
 
 
 
-##TCP/IP分层模型与通信示例
+## TCP/IP分层模型与通信示例
 
-###数据包首部的层次化
+### 数据包首部的层次化
 
 - packets包
 - frames帧
