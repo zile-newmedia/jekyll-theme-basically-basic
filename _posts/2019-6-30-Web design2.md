@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 后端(backend)与前端(frontend)是什么？
+title: 后端(ackend)与前端(frontend)是什么？
 author: imaginist
 date: 2019-6-21
 categories:
