@@ -7,11 +7,9 @@ categories:
      - Website design
 ---
 
-# Web design and development
-## RWD(Responsive Web Design)
+# #Web design and development
+## #RWD(Responsive Web Design)
 
-
-##什么是响应式Web设计？可满足什么需求？
 
 ### 响应式Web设计
 
@@ -22,8 +20,11 @@ categories:
 - 利用弹性网格布局(fluid grid)、弹性图片／媒体(flexible images)、媒体查询(media queries)等技术实现
 
 **RWD让内容如水**
+<br>
 **弹性≈流式 **
+<br>
 **fluid≈flexible**
+
 
 ![avatar](http://m.qpic.cn/psb?/V13n1hdE00quqe/X3unncOYURE80f7a5ZmzNQjqhlGNlbakVq2YVaked6M!/b/dMUAAAAAAAAA&bo=egRcA3oEXAMDNxI!&rf=viewer_4&t=5)
 
