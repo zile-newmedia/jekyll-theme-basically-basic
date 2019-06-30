@@ -9,13 +9,13 @@ categories:
 
 
 # #Web design and development
-## #后端(backend)与前端(frontend)是什么？
+## #Backend&Frontend
 
 
 
 ![avatar](http://m.qpic.cn/psb?/V13n1hdE00quqe/ouNK6gV8D1AgjpiALGZ6Qjhav5az6aOyj*Eoik5Ih6o!/b/dDQBAAAAAAAA&bo=EQOHAREDhwEDFzI!&rf=viewer_4&t=5)
 
-####前后端是关于平面设计师/前端工程师（"平面设计"）和后端工程师（"计算机科学家"）的事情。
+#### 前后端是关于平面设计师/前端工程师（"平面设计"）和后端工程师（"计算机科学家"）的事情。
 
 ![avatar](http://m.qpic.cn/psb?/V13n1hdE00quqe/uryz.2EZFYLQp30DN2jH*IT*fGOWMA8ySTQS.DGS9dI!/b/dDABAAAAAAAA&bo=hgPPAYYDzwEDJwI!&rf=viewer_4&t=5)
 
