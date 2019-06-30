@@ -20,7 +20,7 @@ Git已经成为程序猿必备技能之一，而GitHub做为做流行的Git仓�
 
 ### 目录
 
-- GitHub 初识
+- **GitHub 初识**
 <br>
 [GitHub 简介](https://www.google.com/search?q=%3Ca+href%3D%22the-introduction.html%22%3EGitHub+%E7%AE%80%E4%BB%8B%3C%2Fa%3E&oq=%3Ca+href%3D%22the-introduction.html%22%3EGitHub+%E7%AE%80%E4%BB%8B%3C%2Fa%3E&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 <br>
@@ -28,19 +28,19 @@ Git已经成为程序猿必备技能之一，而GitHub做为做流行的Git仓�
 <br>
 [GitHub 注册](http://wiki.jikexueyuan.com/project/github-basics/sign-up.html)
 <br>
-- 安装 Git
+- **安装 Git**
 <br>
 [安装 Git](http://wiki.jikexueyuan.com/project/github-basics/setup-git.html)
 <br>
 [通过 Git 验证 GitHub](http://wiki.jikexueyuan.com/project/github-basics/validate-github.html)
 <br>
-- 创建仓库
+- **创建仓库**
 <br>
 [在 GitHub 上创建新仓库](http://wiki.jikexueyuan.com/project/github-basics/creat-new-repo.html)
 <br>
 [提交你的第一个修改](http://wiki.jikexueyuan.com/project/github-basics/commit-first-change.html)
 <br>
-- Fork 一个仓库
+- **Fork 一个仓库**
 <br>
 [Fork 一个示例仓库](http://wiki.jikexueyuan.com/project/github-basics/fork-example-repo.html)
 <br>
@@ -48,7 +48,7 @@ Git已经成为程序猿必备技能之一，而GitHub做为做流行的Git仓�
 <br>
 [检索其他仓库来 Fork](http://wiki.jikexueyuan.com/project/github-basics/find-another-repo-fork.html)
 <br>
-- 社会化
+- **社会化**
 <br>
 [Follow 一个人](http://wiki.jikexueyuan.com/project/github-basics/follow-a-friend.html)
 <br>
@@ -56,7 +56,7 @@ Git已经成为程序猿必备技能之一，而GitHub做为做流行的Git仓�
 <br>
 [其他你可以做的事](http://wiki.jikexueyuan.com/project/github-basics/do-other-things.html)
 <br>
-- 图形化工具
+- **图形化工具**
 <br>
 [GitHub for Windows](http://wiki.jikexueyuan.com/project/github-basics/github-for-windows.html)
 <br>
