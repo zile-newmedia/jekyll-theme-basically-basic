@@ -1,6 +1,6 @@
 ---
 layout: home
-image: assets/images/timg.jpg
+image: assets/images/Banner.png
 ---
 
 <style>
