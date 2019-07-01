@@ -20,6 +20,7 @@ categories:
 ![avatar](http://m.qpic.cn/psb?/V13n1hdE00quqe/VeWrkp.sjVWuVkxi1z2WQUMkxxl7USsUAIREuPEBVJ4!/b/dDMBAAAAAAAA&bo=4AHAAeABwAERFyA!&rf=viewer_4&t=5)
 
 - 然后运用@media规则进行媒体查询的设计，如下图所示，设置当页面宽度最小达到768的时候执行其下面的样式。
+<br>
 ![avatar](http://m.qpic.cn/psb?/V13n1hdE00quqe/5A*jFXji.PNay5dw7N7KDeQmB1ytRwZ24Pd2xPTvurQ!/b/dL8AAAAAAAAA&bo=4AFWAeABVgERFyA!&rf=viewer_4&t=5)
 
 - 最后媒体查询的尺寸也可以写多个，如下图所示，运用and将多个尺寸连接起来即可。
