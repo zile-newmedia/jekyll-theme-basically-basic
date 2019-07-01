@@ -26,4 +26,5 @@ img {
 } 
 
 ![avatar](http://m.qpic.cn/psb?/V13n1hdE00quqe/CWHXPzXbZgiDXyOJkx5Kr8JfUNXdd6R8ZCVR2Mzo6oc!/b/dL8AAAAAAAAA&bo=7QBkAe0AZAERFyA!&rf=viewer_4&t=5)
+<br>
 就这样，页面视口就就可以随着页面大小变化而变化了！回到手机上，刷新页面，结果比较符合预期了。
